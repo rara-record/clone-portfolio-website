@@ -2,6 +2,7 @@ WEB PAGE 🌟
 https://rara-record.github.io/portfolio_website/
 
 # Portfolio_Website
+[바로가기]: https://github.com/rara-record/rara-record.github.io/tree/master/portfolio_website
 [!사이트미리보기](./portfolio.png)
 
 ## 기술
