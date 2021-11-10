@@ -5,7 +5,7 @@ https://rara-record.github.io/portfolio_website/
 [!사이트미리보기](./portfolio.png)
 
 ## 기술
-HTML, CSS, Vanilla JS, 반응형 포트폴리오 웹사이트
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=#E34F26&logoColor=black">, <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>, 반응형 포트폴리오 웹사이트💟
 
 ## 기능
 
