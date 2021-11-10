@@ -1,7 +1,8 @@
-WEB PAGE 🌟
+**WEB PAGE LINK** 🌟
 https://rara-record.github.io/portfolio_website/
 
-# Portfolio clone website with dream coding
+# Responsive Portfolio clone website 😊
+## with dream coding Ellie
 - [사이트 미리보기](https://user-images.githubusercontent.com/70184893/141119705-6cb42625-991c-434a-8f5f-2e8d023ed990.png)
 - [코드 바로가기](https://github.com/rara-record/rara-record.github.io/tree/master/portfolio_website)
 
