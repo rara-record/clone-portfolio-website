@@ -1,9 +1,7 @@
-**WEB PAGE LINK** 🌟
-https://rara-record.github.io/portfolio-website/
-
-# Responsive Portfolio clone website 😊
+# Responsive javascript clone 😊 
 ## with dream coding Ellie
-- [사이트 미리보기](https://user-images.githubusercontent.com/70184893/141119705-6cb42625-991c-434a-8f5f-2e8d023ed990.png)
+[DEMO](https://rara-record.github.io/portfolio-website/) 링크를 클릭하시면 웹사이트로 이동합니다!
+
 
 ## 기술
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 반응형 포트폴리오 웹사이트💟
